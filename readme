@@ -1,0 +1,41 @@
+# Pre-requisites
+
+This program is writen using JavaScript with React js runtime environment. So you need to install it first.
+
+install react js environment in your computer
+
+# Prepare the program
+
+Assuming that you have already clone the repository on your local machine, you need to install some dependancies first before trying to run the program.
+
+To install dependancies, you need to open the folder of the program into a terminal and run the following command:
+
+using npm
+
+# npm install
+
+using yarn
+
+# yarn install
+
+After that, all dependancies of this program will be installed. 😊
+
+# Running
+
+For run this project you can run this command
+
+using npm
+
+# npm run start
+
+using yarn
+
+# yarn start
+
+# Usage
+
+The steps to run the program are on the first page that will be displayed.
+
+##### "First (1) you click on the Add File button Then (2) select your files and click OK.
+
+##### Finally (3) you click on Generate and download the result."
