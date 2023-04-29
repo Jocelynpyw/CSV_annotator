@@ -54,7 +54,6 @@
   color: rgb(99, 99, 99);
 }
 
-
 @media screen and (max-width: 768px) {
   .file__item {
     width: calc(100% - 20px);
